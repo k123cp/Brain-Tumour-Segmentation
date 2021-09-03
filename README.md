@@ -1,7 +1,7 @@
 # Brain-Tumour-Segmentation
 
 ## Overview of the architecture
-### CNN Architecture Design
+
 The U-Net architecture is among the most well-known and widely used architectures in medical image segmentation, inspired by encoder-decoder models and fully convolutional networks. A major number of algorithms in the medical field use U-Net as a base point for custom modifications.
  
 ![Original U-Net architecture](https://github.com/k123cp/Brain-Tumour-Segmentation/blob/main/img/u-net.png)
