@@ -1,4 +1,4 @@
-# Brain Tumour Segmentation
+This project is currently under development. Thus everything written here is subject to changes.
 
 ## Dataset
 The project uses the Brain Tumour Segmentation (BraTS) Challenge 2020 dataset. All images are provided in the NIfTI (.nii.gz) format.
